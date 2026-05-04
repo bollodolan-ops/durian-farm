@@ -1,2 +1,6 @@
-# durian-farm
-Kebun milenial
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "vercel-build": "npm install && vite build"
+},
